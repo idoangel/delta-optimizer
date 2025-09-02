@@ -1,5 +1,0 @@
-torch>=1.9.0
-numpy>=1.21.0
-matplotlib>=3.5.0
-tqdm>=4.60.0  # For progress bars
-scipy>=1.7.0  # For advanced statistics
